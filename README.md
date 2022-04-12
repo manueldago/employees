@@ -1,4 +1,4 @@
-# Employees System (Salary)
+# Employee System (Salary)
 
 Version 1.0.0
 
